@@ -1,0 +1,48 @@
+.foto-perfil {
+  height: 100%;
+  width: auto;
+  max-width: 100%;
+  border-radius: 50%;
+}
+.corPrimaria {
+  background-color: #000000;
+}
+.corSecundaria {
+  background-color: #4f4f4f;
+}
+
+p {
+  font-family: lato, 'Helvetica neue' Arial, Helvetica, sans-serif;
+  color: white !important;
+}
+.icone {
+  padding-left: 5px;
+  color: white;
+}
+.titulosCinzas {
+  text-underline-position: below;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #a9a9a9;
+}
+.titulosPretos {
+  text-underline-position: below;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000000;
+}
+.textoBranco {
+  color: white !important;
+}
+.jumbotron {
+  margin-bottom: 0px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+li {
+  color: white;
+}
